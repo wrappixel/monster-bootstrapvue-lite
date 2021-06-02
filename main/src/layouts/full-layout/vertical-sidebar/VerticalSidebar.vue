@@ -31,7 +31,7 @@
           target="_blank"
           variant="info"
           block
-          href="https://www.wrappixel.com/templates/xtreme-vuesax-admin-pro/"
+          href="https://www.wrappixel.com/templates/monster-vuejs-admin/"
           >Upgrade to Pro</b-button
         >
       </div>
